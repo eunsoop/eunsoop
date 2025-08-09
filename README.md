@@ -1,11 +1,6 @@
-# 부계
-> [!NOTE]
-> 부계입니다. 본계 찾을 생각 하지마세요.
-> 
+# 👋 Hello, I'm Eunsoop
+> 안녕하세요, 은수프 입니다.
 
-- 대 왕 렬 선생님 그립습니다.
-
-## 소셜
-인스타 - @iwhfos<br/>
-디스코드 - @eunsoo.jung<br/>
-트위터는 안함<br/>
+## Social
+Instagram - @iwhfos<br/>
+Discord - @eun.soop<br/>
