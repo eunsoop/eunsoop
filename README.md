@@ -1,6 +1,9 @@
-# 👋 Hello, I'm Eunsoop
-> 안녕하세요, 은수프 입니다.
+# 👋 Welcome to my profile!
+
+## Who am I?
+I'm a studnet who dreams being a Computer Engineer.
+
 
 ## Social
-Instagram - @iwhfos<br/>
+Instagram - @esv309<br/>
 Discord - @eun.soop<br/>
