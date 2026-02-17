@@ -1,5 +1,4 @@
-# 👋 Welcome to my profile!
-
+# 👋 Hi!
 ## Who am I?
 I'm a student who wants to become a Computer Engineer!
 
