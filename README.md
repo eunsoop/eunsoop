@@ -1,6 +1,6 @@
 # 👋 Hi!
 ## What is this account?
-This account that stores project about personal project.
+This account is a sub-account that stores project about personal project.
 
 ## Who am I?
 I'm a student who wants to become a Computer Engineer!
