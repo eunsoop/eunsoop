@@ -10,15 +10,15 @@ I'm a student who wants to become a Computer Engineer!
 >
 
 ### Frontend
-- Javascript / Typescript
-ㄴ Svelte (main / favorite)
-ㄴ Vanlia (2nd favorite)
+- Javascript / Typescript<br/>
+ㄴ Svelte (main / favorite)<br/>
+ㄴ Vanlia (2nd favorite)<br/>
 ㄴ React
 
-- Dart
+- Dart<br/>
 ㄴ Flutter
 
-- Kotlin
+- Kotlin<br/>
 ㄴ Jetpack Compose
 
 + Axios
@@ -26,22 +26,22 @@ I'm a student who wants to become a Computer Engineer!
 
 ### Backend
 
-- Java (main / favorite)
-ㄴ Spring Framwork (6 yr)
-ㄴ Quarkus.io (4 yr)
+- Java (main / favorite)<br/>
+ㄴ Spring Framwork (6 yr)<br/>
+ㄴ Quarkus.io (4 yr)<br/>
 ㄴ eGovFramework (Korea)
 
-- Golang (2nd favorite)
-ㄴ Fiber (1 yr)
-ㄴ net/http (2 yr)
+- Golang (2nd favorite)<br/>
+ㄴ Fiber (1 yr)<br/>
+ㄴ net/http (2 yr)<br/>
 ㄴ Spine
 
-- Rust (3rd favorite)
+- Rust (3rd favorite)<br/>
 ㄴ Rocket (1 yr)
 
-- Python (4th favorite)
-ㄴ Django* (1 yr)
-ㄴ FastAPI (2 yr)
+- Python (4th favorite)<br/>
+ㄴ Django* (1 yr)<br/>
+ㄴ FastAPI (2 yr)<br/>
 ㄴ Flask (1 yr)
 
 ### Etc..
