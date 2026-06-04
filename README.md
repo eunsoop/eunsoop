@@ -1,5 +1,5 @@
 # 👋 Hi!
-## What is this account?
+## What is purpose of this account?
 This account is a sub-account that stores project about personal project.
 
 ## Who am I?
