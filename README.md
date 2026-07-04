@@ -13,8 +13,8 @@ I'm a student who wants to become a Computer Engineer!
 - Javascript / Typescript<br/>
 ㄴ Svelte (main / favorite)<br/>
 ㄴ Vanlia (2nd favorite)<br/>
-ㄴ React
-ㄴ Axios
+ㄴ React<br/>
+ㄴ Axios<br/>
 ㄴ Motion, Animejs
 
 - Dart<br/>
