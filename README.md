@@ -14,6 +14,8 @@ I'm a student who wants to become a Computer Engineer!
 ㄴ Svelte (main / favorite)<br/>
 ㄴ Vanlia (2nd favorite)<br/>
 ㄴ React
+ㄴ Axios
+ㄴ Motion, Animejs
 
 - Dart<br/>
 ㄴ Flutter
@@ -21,8 +23,8 @@ I'm a student who wants to become a Computer Engineer!
 - Kotlin<br/>
 ㄴ Jetpack Compose
 
-+ Axios
-+ Motion, Animejs
+- Rust<br/>
+ㄴ Iced
 
 ### Backend
 
@@ -76,7 +78,7 @@ I'm a student who wants to become a Computer Engineer!
 - Autodesk Fusion
 
 
-\* Educated at Sunrin Internet (Specialized) High School
+\* Educated at Certified Organization
 
 ## Social
 Instagram - @esv309<br/>
