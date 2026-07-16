@@ -12,7 +12,7 @@ I'm a student who wants to become a Computer Engineer!
 ### Frontend
 - Javascript / Typescript<br/>
 ㄴ Svelte (main / favorite)<br/>
-ㄴ Vanlia (2nd favorite)<br/>
+ㄴ Vanlia* (2nd favorite)<br/>
 ㄴ React<br/>
 ㄴ Axios<br/>
 ㄴ Motion, Animejs
@@ -51,19 +51,19 @@ I'm a student who wants to become a Computer Engineer!
 #### Language / SDK
 - C Family (C*, C++, C#)
 - Verilog (Currently learning)
-- Android SDK
+- Android SDK*
 - Swift
 - Assembly (intel x86)
 - Pytorch
-- Tensorflow
+- Tensorflow*
 - Arduino
 - MC Bukkit
 - MC Forge
 
 #### Server Management
 - Linux (Rocky, Ubuntu*, Proxmox, CentOS)
-- Proxies (Nginx, Caddy, Traefik, Apache)
-- Docker
+- Proxies (Nginx*, Caddy, Traefik, Apache)
+- Docker*
 - VPN Server Mgnt
 - Redis
 - JetStream
